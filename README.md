@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/userDoffy](https://github.com/userDoffy)
 
 - 📫 How to reach me **adhungana09@gmail.com**
--  My Portfolio site 	aadityadhungana.com.np
+-  My Portfolio site **aadityadhungana.com.np
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
